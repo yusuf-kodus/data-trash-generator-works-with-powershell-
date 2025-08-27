@@ -3,3 +3,4 @@ a data trash generator that can be executed with powershell and generates up to 
 
 >to execute it make sure to run the command [powershell -ExecutionPolicy Bypass -File "generate_trash.ps1"]
 >simply stop it from running by pressing Strg + C in the terminal
+-⚠️This script creates 10 GB ASCII-datatrash, do not run on old SSDs
